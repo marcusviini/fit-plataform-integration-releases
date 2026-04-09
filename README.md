@@ -1,0 +1,1 @@
+# FitPlatform Integration — Releases
